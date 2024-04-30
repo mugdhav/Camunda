@@ -5,5 +5,5 @@ I was searching for a #chatbot building tool that could #automatically #generate
 
 Though it is still in beta (since 2019) and not yet perfect, this feature does a good-enough job of generating FAQ-style knowledge base off existing web content for chatbots.
 
-Here is a short clip, in which I create a knowledge base and a chatbot for travel insurance policy and test them in under 3 minutes.
+Here's a presentation I created in 2021, presenting a use case for Google Dialogflow's Knowledge feature. It includes a short clip, in which I create a knowledge base and a chatbot for travel insurance policy and test them in under 3 minutes.
 (Video clip created with Snagit 2020)
